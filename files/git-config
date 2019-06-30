@@ -1,0 +1,11 @@
+[user]
+	name = Erk Maassen
+	email = erk.maassen01@gmail.com
+[color]
+	ui = auto
+[merge]
+	conflictstyle = diff3
+[core]
+	editor = code --wait
+[winUpdater]
+	recentlySeenVersion = 2.22.0.windows.1
